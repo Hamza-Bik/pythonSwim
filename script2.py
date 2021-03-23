@@ -8,6 +8,8 @@ for i in range(len(str)):
    print(s) 
 
 print("<-------------------------------------->")
+
+
 def stars():
     x = input("how many stars you want ?")
     s=''
