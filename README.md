@@ -1,3 +1,3 @@
 # pythonSwim
 
-A set of Python Scripts to make our life easy :)
+A set of Python Scripts to make life easy :)
